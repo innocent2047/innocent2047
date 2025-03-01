@@ -1,31 +1,30 @@
-<h1 align="center">Hi 👋, I'm instructor of Programing Shikbo</h1>
-<h3 align="center">Webdeveloper</h3>
+### Hi there 👋, I am instructor of Programing Shikbo
+#### With Developer
+![With Developer](https://github.com/innocent2047/innocent2047/blob/main/301870039_441712354647091_1982639667859615845_n.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent2047&label=Profile%20views&color=0e75b6&style=flat" alt="innocent2047" /> </p>
+Hey i am instructor of programing shikbo platfrom. we love to learn new tecnology and client satifation its my first piority .
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocent2047" alt="innocent2047" /></a> </p>
+Skills:   JS / HTML / CSS /python 
 
-- 🔭 I’m currently working on **programing Shikbo**
+- 🔭 I’m currently working on Programing  
+- 🌱 I’m currently learning java 
+- 📫 How to reach me: akastudu063@gmail.com 
+- ⚡ Fun fact: I am funny . 
 
-- 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **react**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/innocent2047)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Killed Akash)  
 
-- 📫 How to reach me **akastudu063@gmail.com**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- ⚡ Fun fact **t think fun**
+[![trophy](https://github-profile-trophy.vercel.app/?username=innocent2047)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/innocent2047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="innocent2047" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/innocent2047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="innocent2047" height="30" width="40" /></a>
-<a href="https://fb.com/killed akash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="killed akash" height="30" width="40" /></a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innocent2047)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=innocent2047&show_icons=true&count_private=true)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocent2047&show_icons=true&locale=en&layout=compact" alt="innocent2047" /></p>
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/innocent2047/contributions?format=svg&private=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=innocent2047&show_icons=true&locale=en" alt="innocent2047" /></p>
+![GitHub metrics](https://metrics.lecoq.io/innocent2047)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=innocent2047)  
 
